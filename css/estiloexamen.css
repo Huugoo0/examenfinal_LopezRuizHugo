@@ -1,0 +1,111 @@
+#menuSuperior{
+    display: flex;
+    justify-content: left;
+}
+
+#menuSuperior li{
+    list-style-type: none;
+    margin: 5px;
+}
+
+#menuSuperior a{
+    text-decoration: none;
+    color: black;
+    background-color:lime;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+}
+
+#tituloLeague{
+    color: red;
+    font-family: 'Comic Sans MS'
+}
+
+#imgLeague{
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+    max-width: 45%;
+    height: auto;
+}
+
+#texto1{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+    
+}
+
+#texto2{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+}
+
+#texto3{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+}
+
+#texto4{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+    padding-bottom: 140px
+}
+
+#tituloEnlaces{
+    color:rgb(118, 206, 118) ;
+    font-family: 'Comic Sans MS';
+}
+
+#menuEnlaces{
+    font-family: "Raleway", sans-serif;;
+}
+
+#tituloPalmares{
+    color: red
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.champion {
+    background-color: yellow;
+}
+
+.semifinalists {
+    background-color: #d89c58;
+}
+
+#Shenzen{
+    width: 30px;
+}
+
+.textoPalmares{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px
+}
+
+#tituloPalmares{
+    font-family: Arial, sans-serif;
+}
